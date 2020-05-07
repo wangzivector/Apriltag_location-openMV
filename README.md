@@ -4,12 +4,17 @@ This repository is a conclusion of finishing the visual task in **NXP National S
 
 The computer vision task is mainly about how to locate the smart car in an Apriltag based map, which looks like this:
 
-<img src=".\PNG\map_of_the_competition.png" height="30%" width="30%" />
+<img src=".\PNG\map_of_the_competition.png" height="30%" width="30%" align="center" />
 
 I mainly focused on Apriltag recognition and find the location in a big map(4m*4m) with RT1062. Also I need to use low-resolution cameras to tell the smartcar position for loading and putting task. Following screen shots can demonstrate the work I have done.
 
 <div align="center">
-<img src=".\PNG\apriltag_task.png"  height="30%" width="30%" /><img src=".\PNG\circle_reco.png"  height="30%" width="30%" /> <img src=".\PNG\edge_dete.png"  height="30%" width="30%" />
+<img src=".\PNG\apriltag_task.png"  height="30%" width="30%" />
+ Apriltag detection and car location
+ <img src=".\PNG\circle_reco.png"  height="30%" width="30%" />
+ circles detection and location
+ <img src=".\PNG\edge_dete.png"  height="30%" width="30%" />
+ edge detection
  </div>
 
 ### [第十四届恩智浦杯全国大学生智能车竞赛](https://smartcar.cdstm.cn/)
