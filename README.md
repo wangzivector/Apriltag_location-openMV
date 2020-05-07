@@ -11,17 +11,24 @@ I mainly focused on Apriltag recognition and find the location in a big map(4m*4
 <div align="center">
 <img src=".\PNG\apriltag_task.png"  height="30%" width="50%" />
   </div>
-<center> Apriltag detection and car location </center>
+
+<center> 
+ Apriltag detection and car location 
+</center>
 
 <div align="center">
  <img src=".\PNG\circle_reco.png"  height="30%" width="50%" />
   </div>
-<center> circles detection and location </center>
+<center>
+ circles detection and location 
+</center>
   
 <div align="center">
  <img src=".\PNG\edge_dete.png"  height="30%" width="50%"  />
  </div>
-<center> edge detection </center>
+<center>
+ edge detection 
+</center>
  
 
 ### [第十四届恩智浦杯全国大学生智能车竞赛](https://smartcar.cdstm.cn/)
