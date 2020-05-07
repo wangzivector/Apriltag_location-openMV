@@ -1,32 +1,24 @@
-
-
 ## Apriltag implement (NXP RT1062 openMV)
 
 This repository is a conclusion of finishing the visual task in **NXP National Smart Car Competition in China** , in which I won the national first prize with my teammates.
 
 The computer vision task is mainly about how to locate the smart car in an Apriltag based map, which looks like this:
 
-<img src=".\map of the competition.png" style="zoom:50%;" />
+<img src=".\map_of_the_competition.png" style="zoom:30%;" />
 
 I mainly focused on Apriltag recognition and find the location in a big map(4m*4m) with RT1062. Also I need to use low-resolution cameras to tell the smartcar position for loading and putting task. Following screen shots can demonstrate the work I have done.
 
-<img src=".\apriltag task.png" style="zoom:53%;" />
+<img src=".\apriltag_task.png" style="zoom:30%;" />
 
 <div align = center>Apriltag detection and car location</div>
 
-
-
-<img src=".\circle reco.png" style="zoom:50%;" />
+<img src=".\circle_reco.png" style="zoom:30%;" />
 
 <div align = center> circles detection and location</div>
 
-
-
-<img src=".\edge dete.png" style="zoom:50%;" />
+<img src=".\edge_dete.png" style="zoom:30%;" />
 
 <center>edge detection</center>
-
-
 
 ### [第十四届恩智浦杯全国大学生智能车竞赛](https://smartcar.cdstm.cn/)
 
@@ -48,7 +40,11 @@ The 14th National University  Students intelligent Car Race in China is one of t
 
   There are some implement about modules in openMV. Check them if you like.
 
+* **open report of work.pdf**
 
+  describe the design of the whole car. thank to my team.
+
+  (Qiangqin Qiu \ Kainan Su \ Minjie Wang \ Chenglong Cai)
 
 Also I have finished another vision work using NXP K66 chip with low-resolution camera to process gray images and other common vision tasks. If you are interested please contact me.
 
