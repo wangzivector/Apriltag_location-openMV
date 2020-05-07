@@ -11,24 +11,16 @@ I mainly focused on Apriltag recognition and find the location in a big map(4m*4
 <div align="center">
 <img src=".\PNG\apriltag_task.png"  height="30%" width="50%" />
   </div>
-
-<center> 
- Apriltag detection and car location 
-</center>
-
+<p align="center">Apriltag detection and car location</p>
 <div align="center">
  <img src=".\PNG\circle_reco.png"  height="30%" width="50%" />
   </div>
-<center>
- circles detection and location 
-</center>
+<p align="center"> circles detection and location </p>
   
 <div align="center">
  <img src=".\PNG\edge_dete.png"  height="30%" width="50%"  />
  </div>
-<center>
- edge detection 
-</center>
+<p align="center"> edge detection </p>
  
 
 ### [第十四届恩智浦杯全国大学生智能车竞赛](https://smartcar.cdstm.cn/)
@@ -37,8 +29,7 @@ I mainly focused on Apriltag recognition and find the location in a big map(4m*4
 
 The 14th National University  Students intelligent Car Race in China is one of the biggest engineer competitions in China which attracts thousands of undergraduates in Automation and EE majors to compete with each others.
 
-[Open design work](.\open report of work.pdf)  which got the first prize, have released in this repository. Please feel free to contact with me when have questions or discussion.
-
+ [Open design work](https://github.com/wangzivector/Apriltag_openMV_implement/blob/master/open%20report%20of%20work.pdf), which got the first prize, have released in this repository. Please feel free to contact with me when have questions or discussion.
 
 
 # repository describe
