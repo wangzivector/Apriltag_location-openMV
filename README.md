@@ -1,4 +1,4 @@
-## Apriltag implement (NXP RT1062 openMV)
+## Apriltag implement (NXP RT1062 openMV) [library](https://github.com/openmv/apriltag)
 
 This repository is a conclusion of finishing the visual task in **NXP National Smart Car Competition in China** , in which I won the national first prize with my teammates.
 
@@ -26,6 +26,8 @@ I mainly focused on Apriltag recognition and find the location in a big map(4m*4
 ### [第十四届恩智浦杯全国大学生智能车竞赛](https://smartcar.cdstm.cn/)
 
 #### The 14th National University  Students intelligent Car Race in China
+
+#### this work was done in 2019.
 
 The 14th National University  Students intelligent Car Race in China is one of the biggest engineer competitions in China which attracts thousands of undergraduates in Automation and EE majors to compete with each others.
 
