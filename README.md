@@ -1,6 +1,10 @@
 ## Apriltag implement (NXP RT1062 openMV) [library](https://github.com/openmv/apriltag)
 
 This repository is a conclusion of finishing the visual task in **NXP National Smart Car Competition in China** , in which I won the national first prize with my teammates.
+<div align="center">
+ **This is our moving platform** 
+<img src=".\PNG\car_frontside.jpg" height="30%" width="50%" />
+</div>
 
 The computer vision task is mainly about how to locate the smart car in an Apriltag based map, which looks like this:
 <div align="center">
